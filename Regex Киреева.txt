@@ -1,0 +1,5 @@
+Songs, song, sings, singing, sang, sing, zeng, son, sung, Song, sooong, s ng, smng
+Антонов, С.Г.Белов, Петров, М. Антонова, С.П. Петрова, Кудинов, Зябликов, З.Головлева
+
+Ответ на практическое задание:
+"(Ma?c)[A-Z][a-z]+" или "(Mac|Mc)[A-Z][a-z]+"
